@@ -1,14 +1,9 @@
-#!/usr/bin/python3 
- digit1 = 0 
- digit2 = 1 
- while digit1 <= 8: 
-     while digit2 <= 9: 
-         if digit1 != digit2: 
-             print("{:d}".format(digit1), end='') 
-             if digit1 != 8: 
-                 print("{:d}, ".format(digit2), end='') 
-             else: 
-                 print("{:d}".format(digit2)) 
-         digit2 += 1 
-     digit2 = digit1 + 1 
-     digit1 += 1
+#!/usr/bin/python3
+# Author - Tolulope Fakunle
+
+for digit1 in range(0, 10):
+    for digit2 in range(digit1 + 1, 10):
+        if digit1 == 8 and digit2 == 9:
+            print("{}{}".format(digit1, digit2))
+        else:
+            print("{}{}".format(digit1, digit2), end=", ")
