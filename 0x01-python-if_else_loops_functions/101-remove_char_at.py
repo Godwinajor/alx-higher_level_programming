@@ -1,9 +1,7 @@
-#!/usr/bin/python3 
- def remove_char_at(str, n): 
-     count = 0 
-     new = '' 
-     for c in str: 
-         if count != n: 
-             new += str[count] 
-         count += 1 
-     return new
+#!/usr/bin/python3
+# Author - bamidele Adefolaju
+
+def remove_char_at(str, n):
+    if n < 0:
+        return (str)
+    return (str[:n] + str[n+1:])
