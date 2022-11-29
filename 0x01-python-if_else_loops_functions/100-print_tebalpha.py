@@ -1,12 +1,11 @@
-#!/usr/bin/python3 
- value = 122 
- flag = 0 
- while value >= 97: 
-     if value % 2: 
-         value -= 32 
-         flag = 1 
-     print("{}".format(chr(value)), end='') 
-     if flag == 1: 
-         value += 32 
-         flag = 0 
-     value -= 1
+#!/usr/bin/python3
+i = 122
+while i >= 97:
+    check = 0
+    if (i % 2 != 0):
+        i -= 32
+        check = 1
+    print("{:s}".format(chr(i)), end="")
+    if (check):
+        i += 32
+    i -= 1
