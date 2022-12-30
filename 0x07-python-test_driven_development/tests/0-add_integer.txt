@@ -1,5 +1,5 @@
 
-anwulika-1
+Godwinajor
 /
 alx-higher_level_programming
 Public
@@ -11,8 +11,8 @@ Projects
 Security
 Insights
 alx-higher_level_programming/0x07-python-test_driven_development/tests/0-add_integer.txt
-@anwulika-1
-anwulika-1 Create 0-add_integer.txt
+@Godwinajor
+Godwinajor Create 0-add_integer.txt
  1 contributor
 117 lines (89 sloc)  2.88 KB
 Test cases for 0-add_integer module
