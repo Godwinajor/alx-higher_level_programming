@@ -1,1 +1,1 @@
-I dont always learn python, however, when i do I always share my tips and trivks
+0x09-python_everything_is_object
