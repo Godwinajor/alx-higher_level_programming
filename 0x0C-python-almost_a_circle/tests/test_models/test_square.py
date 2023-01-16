@@ -1,21 +1,3 @@
-Skip to content
-Sign up
-marameref
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x0C-python-almost_a_circle/tests/test_models/test_square.py
-@marameref
-marameref Add files via upload
- 1 contributor
-659 lines (508 sloc)  21.9 KB
 #!/usr/bin/python3
 # test_square.py
 """Defines unittests for models/square.py.
@@ -673,18 +655,3 @@ class TestSquare_to_dictionary(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-alx-higher_level_programming/test_square.py at main · marameref/alx-higher_level_programming · GitHub
