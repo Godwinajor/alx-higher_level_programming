@@ -1,21 +1,3 @@
-Skip to content
-Sign up
-marameref
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x0C-python-almost_a_circle/tests/test_models/test_rectangle.py
-@marameref
-marameref Add files via upload
- 1 contributor
-807 lines (622 sloc)  28.7 KB
 #!/usr/bin/python3
 # test_rectangle.py
 """Defines unittests for models/rectangle.py.
@@ -821,18 +803,3 @@ class TestRectangle_to_dictionary(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-alx-higher_level_programming/test_rectangle.py at main · marameref/alx-higher_level_programming · GitHub
