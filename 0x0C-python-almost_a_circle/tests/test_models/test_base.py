@@ -1,21 +1,3 @@
-Skip to content
-Sign up
-marameref
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x0C-python-almost_a_circle/tests/test_models/test_base.py
-@marameref
-marameref Add files via upload
- 1 contributor
-549 lines (441 sloc)  18.6 KB
 #!/usr/bin/python3
 # test_base.py
 """Defines unittests for base.py.
@@ -564,18 +546,3 @@ class TestBase_load_from_file_csv(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-alx-higher_level_programming/test_base.py at main · marameref/alx-higher_level_ 
